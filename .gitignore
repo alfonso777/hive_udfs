@@ -1,2 +1,7 @@
 *.class
 *.log
+*.scalac
+.metals
+project/target/
+project/project/
+target/
